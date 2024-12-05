@@ -7,8 +7,8 @@ CUDA Toolkit 12.4
 PyTorch 2.4+
 
 ## Supported operations so far:
-Mat-Mat Mul
-Mat-Mat L1
+- Mat-Mat Mul
+- Mat-Mat L1
 
 ## To build:
 ```
