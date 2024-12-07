@@ -1,5 +1,6 @@
 # mat-mat-ops
-Custom C++ and CUDA operators for some Matrix-Matrix Operations. (including both forward and backward kernels)
+Custom C++ and CUDA operators for some Matrix-Matrix Operations. (including both forward and backward kernels).
+
 This [tutorial](https://pytorch.org/tutorials/advanced/cpp_custom_ops.html#setting-up-the-build-system) by PyTorch is all you need :)
 
 ## Requirements:
